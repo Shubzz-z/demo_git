@@ -1,3 +1,3 @@
 int main(){
-printf("35 Shubham :60");
+printf("35 Shubham :50");
 }
